@@ -1,5 +1,5 @@
 # ecs-with-codepipeline-example-by-terraform
-![GitHub](https://img.shields.io/github/license/gnokoheat/ecs-with-codepipeline-example-by-terraform) ![GitHub top language](https://img.shields.io/github/languages/top/gnokoheat/ecs-with-codepipeline-example-by-terraform) ![GitHub repo size](https://img.shields.io/github/repo-size/gnokoheat/ecs-with-codepipeline-example-by-terraform)
+![GitHub](https://img.shields.io/github/license/gnokoheat/ecs-with-codepipeline-example-by-terraform) ![GitHub top language](https://img.shields.io/github/languages/top/gnokoheat/ecs-with-codepipeline-example-by-terraform) ![GitHub repo size](https://img.shields.io/github/repo-size/gnokoheat/ecs-with-codepipeline-example-by-terraform) ![GitHub last commit](https://img.shields.io/github/last-commit/gnokoheat/ecs-with-codepipeline-example-by-terraform)
 
 **ECS with Codepipeline example by Terraform**
 
