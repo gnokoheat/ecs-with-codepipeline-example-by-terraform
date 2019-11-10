@@ -5,6 +5,8 @@
 
 - Building AWS ECS Infrastructure with AWS Codepipeline for Blue/Green deployment by Terraform
 
+![](https://github.com/gnokoheat/ecs-with-codepipeline-example-by-terraform/blob/master/ecs-with-codepipeline.png?raw=true)
+
 ## Include
 This terraform code include All-In-One for ECS & Codepipeline settings even VPC infra.
 
